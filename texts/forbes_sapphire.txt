@@ -1,0 +1,38 @@
+https://www.forbes.com/sites/sap/2024/06/10/sapphire-2024-sap-unveils-ai-powered-future/
+SAP Sapphire 2024: The AI-Powered Future Is Here
+SAP
+Ana Ammann
+Brand Contributor
+SAP
+BRANDVOICE| Paid Program
+
+Jun 10, 2024,08:37am EDT
+Updated Jun 10, 2024, 02:40pm EDT
+SAP Sapphire 2024 - Orlando, Florida
+SAP CEO Christian Klein at Sapphire 2024 - Orlando, FloridaSAP SE
+The curtains rose on Sapphire 2024 with a dynamic start, uniting SAP customers, partners, and analysts from over 100 countries both in-person and virtually. The energy was electric as SAP's leadership unveiled a series of groundbreaking announcements that underscored the company’s ambitious strides in artificial intelligence and cloud computing that are set to transform the enterprise software landscape and bring out the best in their customers.
+
+The New Phase of AI
+“SAP is the only tech company who can infuse AI capabilities right into your business processes and workflows,” said SAP CEO Christian Klein in his opening remarks. In an era where technology is the cornerstone of innovation, SAP is redefining the future of business with its groundbreaking AI strategy. By seamlessly integrating Business AI into their extensive suite of solutions, SAP is not only enhancing productivity and efficiency but also revolutionizing how companies operate and compete.
+
+This strategic move positions SAP at the forefront of digital transformation, enabling businesses to harness the power of intelligent automation, data-driven decision-making, and unprecedented operational agility. With Business AI at its core, SAP is paving the way for a new paradigm in business excellence, setting a bold precedent for the industry.
+
+Joule: The Game Changer
+One of the most exciting highlights of the keynote was the introduction of Joule, SAP's cutting-edge, generative AI copilot. Joule is set to revolutionize user productivity across SAP's suite of solutions by transforming natural language into actionable tasks. By the end of the year, 80% of the most common tasks performed by SAP's 300 million end users will be managed by Joule, potentially increasing productivity by 20%. With capabilities spanning order management, finance, and analytics, Joule offers strategic recommendations that leverage a vast B2B data model and provides real-time recommendations to improve cash collection, procurement, and supply chain decisions.
+
+
+Integration with Microsoft 365 Copilot
+In a significant move, SAP announced a deep integration between Joule and Microsoft 365 Copilot, promising a seamless user experience that bridges the two platforms. This integration ensures that regardless of the copilot being used, the experience remains consistent and unified, enhancing productivity and collaboration.
+
+Generative AI and the GenAI Hub
+The keynote also showcased the GenAI Hub, a flexible platform allowing customers and partners to develop bespoke AI use cases using various large language models (LLMs) such as GPT-4-Turbo, Google Gemini, and Anthropic.
+
+This hub offers deep integration with SAP data and security models, providing a robust foundation for AI-driven innovation. Notably, over 80 partners are already developing hundreds of use cases within the GenAI Hub.
+
+RISE with SAP: Evolution and Success
+RISE with SAP, the company's business transformation offering, was highlighted as a key driver of digital transformation. Over 6,000 customers have adopted RISE, running over 110,000 systems, achieving significant process simplification and innovation. SAP announced the next evolution of RISE, which includes assigning an Enterprise Architect to each customer to guide them through the lifecycle and an integrated tool chain featuring SAP LeanIX, SAP Signavio, and SAP Cloud ALM.
+
+Call to Action
+For those who missed the live event, SAP’s keynote at Sapphire 2024 offered a compelling vision of the future. The company’s advancements in AI, deep integrations, and strong partnerships with tech giants like Microsoft, Apple, AWS, and NVIDIA are set to redefine how businesses operate. SAP's commitment to responsible AI and continuous innovation promises significant improvements in productivity, efficiency, and sustainability for enterprises worldwide.
+
+As SAP CEO Christian Klein concluded, "We are not developing AI for the sake of AI. Our vision at SAP is to leverage our holistic portfolio to deliver agility at scale, achieve more across the entire value chain, and run sustainable businesses."
